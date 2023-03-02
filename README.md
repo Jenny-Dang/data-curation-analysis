@@ -20,4 +20,4 @@ mbid (string): ID from MusicBrainz
 
 spotify_id (string): ID from Spotify 
 
-Potential issues coudl arise with this dataset because it was not listed how the tags associated are assciated with the songs. This makes trusting and categorizing the data more difficult, however the combination of data points allows others to explore and analyze the different and diverse kinds of music out there. 
+Potential issues could arise with this dataset because it was not listed how the tags associated are assciated with the songs. This makes trusting and categorizing the data more difficult, however the combination of data points allows others to explore and analyze the different and diverse kinds of music out there. 
